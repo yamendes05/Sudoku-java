@@ -12,12 +12,7 @@ Este projeto é um jogo de Sudoku implementado em Java usando Swing para a inter
 - Contador de erros exibido no topo
 - Números selecionáveis para preenchimento das células vazias
 
-## Como executar
 
-1. Certifique-se de ter o Java instalado.
-2. Compile o arquivo:
-   ```bash
-   javac Sudoku.java
 ## Estrutura
 - Tile: Classe interna que representa uma célula do tabuleiro
 
